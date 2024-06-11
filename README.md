@@ -67,7 +67,7 @@ Bayview Village is a highly sought-after neighborhood with proximity to amenitie
 Market Trends:
 
 - Historical Growth: Properties in this area have shown steady appreciation over the years. Homes similar to yours have been selling for between $4,000,000 and $6,000,000.
-- 
+
 - Current Market Conditions: The Toronto real estate market, particularly in desirable neighborhoods like Bayview Village, remains robust despite broader economic fluctuations. High demand and limited supply in this area can help maintain or increase property values.
 
 Predictive Analysis:
