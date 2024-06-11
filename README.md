@@ -7,6 +7,38 @@
 'Future Resale Value' can be incredibly helpful in a number of ways. For individuals looking to make a significant purchase, such as a car, electronic device, or piece of real estate, it provides valuable foresight into the long-term value of the item. This helps buyers to assess whether the item is likely to retain its value, depreciate slowly, or depreciate quickly, thus influencing their purchasing decision. For sellers, the tool offers an estimation of the current and future market value of their possessions, enabling them to set competitive and realistic prices. Additionally, it helps both buyers and sellers to time their transactions more strategically, maximizing their financial benefits based on market conditions and trends.
 
 #
+### Example Usage
+
+![2024 Tesla Model 3](https://github.com/sourceduty/Future_Resale_Value/assets/123030236/b694aede-9e51-4144-9171-ac4d689a08e0)
+
+#### 2024 Tesla Model 3, priced at CA$55,990
+
+Depreciation Rates
+
+Year 1: 20%
+Year 2 onward: 10% per year
+
+Resale Value Calculation
+
+After 1 Year:
+Value = 55,990 * (1 - 0.20) = 44,792
+
+After 2 Years:
+Value = 44,792 * (1 - 0.10) = 40,313
+
+After 3 Years:
+Value = 40,313 * (1 - 0.10) = 36,281
+
+After 4 Years:
+Value = 36,281 * (1 - 0.10) = 32,653
+
+After 5 Years:
+Value = 32,653 * (1 - 0.10) = 29,388
+
+Estimated Resale Value After 5 Years:
+CA$29,388
+
+#
 ### Related Links
 
 [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
