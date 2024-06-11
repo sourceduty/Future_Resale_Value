@@ -9,6 +9,9 @@
 #
 ### Example Usage
 
+<details><summary>2024 Tesla Model 3</summary>
+<br>
+
 ![2024 Tesla Model 3](https://github.com/sourceduty/Future_Resale_Value/assets/123030236/b694aede-9e51-4144-9171-ac4d689a08e0)
 
 #### 2024 Tesla Model 3, priced at CA$55,990
@@ -16,6 +19,7 @@
 Depreciation Rates
 
 Year 1: 20%
+
 Year 2 onward: 10% per year
 
 Resale Value Calculation
@@ -37,6 +41,9 @@ Value = 32,653 * (1 - 0.10) = 29,388
 
 Estimated Resale Value After 5 Years:
 CA$29,388
+
+<br>
+</details>
 
 #
 ### Related Links
