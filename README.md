@@ -45,6 +45,40 @@ CA$29,388
 <br>
 </details>
 
+<details><summary>C$5,288,000 house at 53 Citation Dr in Toronto</summary>
+<br>
+
+![Toronto House](https://github.com/sourceduty/Future_Resale_Value/assets/123030236/8afff35f-40f7-4760-8da0-0bb5e8a68f05)
+
+To estimate the future resale value of your house at 53 Citation Dr, Toronto, ON M2K 1S5, we can consider several factors based on the current market trends, property details, and neighborhood characteristics.
+
+Current Property Details:
+- Current Market Value: C$5,288,000
+- Location: Bayview Village, North York, Toronto
+- Lot Size: Approximately 60 x 149 feet (around 830.55 sqm)
+- Property Size: Approximately 5000+ sq ft
+- Bedrooms/Bathrooms: 5+1 bedrooms, 8 bathrooms
+- Recent Sales: The property was last sold for $4,400,000.
+
+Neighborhood Insights:
+
+Bayview Village is a highly sought-after neighborhood with proximity to amenities like Bayview Village Shopping Centre, public transit options (including a nearby subway station), and high-ranking schools such as Elkhorn Public School, Bayview Middle School, and Earl Haig Secondary School. These factors typically contribute to strong property value retention and appreciation.
+
+Market Trends:
+
+- Historical Growth: Properties in this area have shown steady appreciation over the years. Homes similar to yours have been selling for between $4,000,000 and $6,000,000.
+- 
+- Current Market Conditions: The Toronto real estate market, particularly in desirable neighborhoods like Bayview Village, remains robust despite broader economic fluctuations. High demand and limited supply in this area can help maintain or increase property values.
+
+Predictive Analysis:
+
+Based on these factors, your home's value is likely to appreciate if current trends continue. While precise future values are hard to predict, homes in Bayview Village have shown resilience and growth even during market slowdowns. Assuming a moderate annual appreciation rate of 3-5%, the estimated future resale value in 5 years could range from approximately C$6,130,000 to C$6,730,000.
+
+For more detailed and personalized analysis, consider consulting with a local real estate expert who can provide insights specific to your property and the evolving market conditions.
+
+<br>
+</details>
+
 #
 ### Related Links
 
