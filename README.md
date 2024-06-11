@@ -50,7 +50,7 @@ CA$29,388
 
 ![Toronto House](https://github.com/sourceduty/Future_Resale_Value/assets/123030236/8afff35f-40f7-4760-8da0-0bb5e8a68f05)
 
-To estimate the future resale value of your house at 53 Citation Dr, Toronto, ON M2K 1S5, we can consider several factors based on the current market trends, property details, and neighborhood characteristics.
+To estimate the future resale value of your house at [53 Citation Dr, Toronto, ON M2K 1S5](https://www.zillow.com/homedetails/53-Citation-Dr-Toronto-ON-M2K-1S5/2071872369_zpid/), we can consider several factors based on the current market trends, property details, and neighborhood characteristics.
 
 Current Property Details:
 - Current Market Value: C$5,288,000
